@@ -51,7 +51,3 @@
     </td>
   </tr>
 </table>
-
-<br />
- 
-![Snake animation](https://github.com/Novakzwq/Novakzwq/blob/output/github-contribution-grid-snake.svg)
