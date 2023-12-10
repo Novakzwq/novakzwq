@@ -1,28 +1,57 @@
+### Olá, Eu sou o Novak! 💻
+
+[![Novakzwq](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/novaksource)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/novakzwq/)
+
+## Status:
+
 <div align="center">
-
-# Novak
-
-<br>
-Amante da tecnologia, aviação, e automobilismo!
-
-Desenvolvedor Fullstack
-<br>
-Analista e desenvolvedor de testes automatizados
-<br>
-Técnico de Informática - FIEC
-<br>
-Análise e Desenvolvimento de Sistemas - CEUNSP
-<br>
-<br>
-[![Instagram Badge](https://img.shields.io/badge/-@novakzwq-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/novakzwq/)](https://www.instagram.com/novakzwq/) 
-[![Linkedin Badge](https://img.shields.io/badge/-novak%20zwq-ff0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/novakzwq)](https://www.linkedin.com/in/novakzwq) 
-[![Gmail Badge](https://img.shields.io/badge/-novaksource@gmail.com-ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:novaksource@gmail.com)](mailto:novaksource@gmail.com)
-<br> 
-<br>
-``No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz.
-``
-
-**Ruan Gabriel**
-
-
+  <a href="https://github.com/Novakzwq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=combo0001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combo0001&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+## Tecnologias:
+  
+<br />
+
+## Ferramentas e Frameworks:
+
+<table style="overflow:hidden">
+  <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#lua">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+      </a>
+      <br>Lua
+    </td>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+</table>
+
+<br />
+ 
+![Snake animation](https://github.com/Novakzwq/Novakzwq/blob/output/github-contribution-grid-snake.svg)
