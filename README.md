@@ -1,53 +1,42 @@
-### Olá, Eu sou o Novak! 💻
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
+![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+<!-- ![profile count](https://komarev.com/ghpvc/?username=flaviof21&color=red)&nbsp;
+[![GitHub flaviof21](https://img.shields.io/github/followers/flaviof21?label=follow&style=social)](https://github.com/Novakzwq)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success) -->
 
-[![Novakzwq](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/novaksource)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/novakzwq/)
+* * *
 
-## Status:
 
-<div align="center">
-  <a href="https://github.com/Novakzwq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=combo0001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=combo0001&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-## Tecnologias:
-  
-<br />
+### 👨🏻‍💻 &nbsp; **About Me**
+<li>
+  💡 &nbsp; I'm Full Stack developer since 2018.
+</li>
+<li>
+  💻 &nbsp; Javascript | Nodejs | React | Sql.
+</li>
+<li>
+  ✍️ &nbsp; Studying languages ​​of the future
+</li>
 
-## Ferramentas e Frameworks:
+* * *
 
-<table style="overflow:hidden">
-  <tr>
-    <td align="center" width="96">
-      <a href="#javascript">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#lua">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
-      </a>
-      <br>Lua
-    </td>
-    <td align="center" width="96">
-      <a href="#html">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#css">
-        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-</table>
+
+### 🛠 &nbsp; **Languages and Tools**
+
+![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Express](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
+
+
+
+![github-snake-dark](https://github.com/Novakzwq/Novakzwq/assets/72814783/f70d10b0-a69c-4a70-8302-ca540edc5db6)
