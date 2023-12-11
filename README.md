@@ -36,7 +36,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
-
-
-
-![github-snake-dark](https://github.com/Novakzwq/Novakzwq/assets/72814783/f70d10b0-a69c-4a70-8302-ca540edc5db6)
