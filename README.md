@@ -1,5 +1,5 @@
 ## Hello, i'm Novak!
-  <img align="center" alt="Zeus-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Zeus-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Novak-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Novak-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeusHay&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusHay&layout=compact&langs_count=7&theme=nord"/>
