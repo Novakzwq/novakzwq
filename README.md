@@ -1,38 +1,17 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
-![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-<!-- ![profile count](https://komarev.com/ghpvc/?username=flaviof21&color=red)&nbsp;
-[![GitHub flaviof21](https://img.shields.io/github/followers/flaviof21?label=follow&style=social)](https://github.com/Novakzwq)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success) -->
+## Hello, i'm Novak!
+  <img align="center" alt="Zeus-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Zeus-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeusHay&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusHay&layout=compact&langs_count=7&theme=nord"/>
+</div>
 
-* * *
+---
 
+- 🌱 Currently my study goal is Python.
+- 💬 About me? I have been studying programming for about 5 years, my first contact with programming was with Visual Basic .net, my second contact was with C#, my third contact was with Lua, then Python and JavaScript, however, the one that I liked the most was Python for the simplicity and automation that it is able to achieve.
 
-### 👨🏻‍💻 &nbsp; **About Me**
-<li>
-  💡 &nbsp; I'm Full Stack developer since 2018.
-</li>
-<li>
-  💻 &nbsp; Javascript | Nodejs | React | Sql.
-</li>
-<li>
-  ✍️ &nbsp; Studying languages ​​of the future
-</li>
+---
 
-* * *
-
-
-### 🛠 &nbsp; **Languages and Tools**
-
-![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Express](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=007ACC)&nbsp;
+<div>
+    <a href="https://instagram.com/deuszeusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
