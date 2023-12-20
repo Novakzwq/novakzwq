@@ -1,17 +1,21 @@
-## Hello, i'm Novak!
-  <img align="center" alt="Novak-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Novak-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Novakzwq&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novakzwq&layout=compact&langs_count=7&theme=nord"/>
+## Hello, my name is Kauan Araujo Do Carmo, I'm 16 years old and I'm a Full Stack developer
+<div align="center">
+  <a href="https://github.com/Novakzwq">
 </div>
-
----
-
-- 🌱 Currently my study goal is Python.
-- 💬 About me? I have been studying programming for about 5 years, my first contact with programming was with Visual Basic .net, my second contact was with C#, my third contact was with Lua, then Python and JavaScript, however, the one that I liked the most was Python for the simplicity and automation that it is able to achieve.
-
----
-
-<div>
-    <a href="https://instagram.com/deuszeusdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kauan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Kauan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kauan-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/Novakzwq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:novasource@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Novakzwq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
